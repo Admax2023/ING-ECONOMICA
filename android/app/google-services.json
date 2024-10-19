@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088702204051",
+    "project_id": "calculadora-financiera-5a22e",
+    "storage_bucket": "calculadora-financiera-5a22e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088702204051:android:6d5287d61a0ca83f6de566",
+        "android_client_info": {
+          "package_name": "com.calculadora_ing.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkNgs4PMXsjVWE9cASizKzJBbSDmKa0s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
